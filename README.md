@@ -19,6 +19,7 @@ Make a Pull Request for your changes and wait to be merged.
 
 # How to Begin
 1. Fork this repository
+
 2. Clone your fork down to your local environment
 ```markdown
 git clone https://github.com/your-username/hacktoberfest17-beginner.get
@@ -30,6 +31,7 @@ get checkout -b branch-name
 ```
 
 4. Make your addition to the `Profile` and `Hello World` directories
+
 5. Commit and Push your changes
 ```markdown
 git add .
@@ -38,10 +40,14 @@ git push
 ```
 
 # Format
-* Profile Page
+
+
+### * Profile Page
+### Name of File: FirstName_LastName.md
 
 ```markdown
 # First and Last Name
+
 ### Location
 Your City, State, Country
 
@@ -64,7 +70,12 @@ Whatever that may be
 Whatever that may be
 ```
 
-* Hello World Page
+### * Hello World Page
+### Name of File: hello_world.preferred language written
+```markdown
+example: hello_world.rb
+```
+
 ```markdown
 // AUTHOR: Malind Kowalski
 // LANGUAGE: Ruby
