@@ -3,4 +3,4 @@
 # GITHUB: https://github.com/DanL12186
 
 def hello_world():
-    print ("hello world")
+    print ("Hello world!")
