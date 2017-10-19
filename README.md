@@ -39,8 +39,11 @@ git commit -m 'commit message'
 git push
 ```
 
-# Format
+- Create a new Pull Request from your forked repository, click the `New Pull Request` button located at the top of your repository
+- Wait for you PR to be reviewed and merge approval
+- Star this repository if you had fun!
 
+# Format
 
 ### * Profile Page
 ### Name of File: FirstName_LastName.md
@@ -86,3 +89,5 @@ example: hello_world.rb
 
 puts 'Hello, World!'
 ```
+
+# HAPPY CODING!
