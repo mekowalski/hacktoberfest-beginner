@@ -4,13 +4,13 @@
 Durango, Colorado
 
 ### Associated Organization
-Flatiron School
-Fight Club Durango
+- Flatiron School
+- Fight Club Durango
 
 ### Academics
-Flatiron School
-Fort Lewis College
-University of Colorado at Colorado Springs
+- Flatiron School
+- Fort Lewis College
+- University of Colorado at Colorado Springs
 
 ### Non-Coding Interests
 - Hiking
