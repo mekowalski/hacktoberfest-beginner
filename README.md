@@ -36,7 +36,7 @@ get checkout -b branch-name
 ```markdown
 git add .
 git commit -m 'commit message'
-git push
+git push origin branch-name
 ```
 
 - Create a new Pull Request from your forked repository, click the `New Pull Request` button located at the top of your repository
