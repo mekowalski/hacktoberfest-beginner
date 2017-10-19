@@ -20,13 +20,55 @@ Make a Pull Request for your changes and wait to be merged.
 # How to Begin
 1. Fork this repository
 2. Clone your fork down to your local environment
-`git clone https://github.com/your-username/hacktoberfest17-beginner.get`
+```markdown
+git clone https://github.com/your-username/hacktoberfest17-beginner.get
+```
 
 3. Create a branch
-`get checkout -b branch-name`
+```markdown
+get checkout -b branch-name
+```
 
 4. Make your addition to the `Profile` and `Hello World` directories
 5. Commit and Push your changes
-`git add .
+```markdown
+git add .
 git commit -m 'commit message'
-git push`
+git push
+```
+
+# Format
+* Profile Page
+
+```markdown
+# First and Last Name
+### Location
+Your City, State, Country
+
+### Associated Organization
+List of Associated Organizations
+
+### Academics
+List of Education
+
+### Non-Coding Interests
+List of interests
+
+### Why Do You Love Coding?
+Your statement of why you love Coding
+
+### Your Favorite Animal
+Whatever that may be
+
+### Your Favorite Dessert
+Whatever that may be
+```
+
+* Hello World Page
+```markdown
+// AUTHOR: Malind Kowalski
+// LANGUAGE: Ruby
+// GITHUB: https://github.com/mekowalski
+
+puts 'Hello, World!'
+```
