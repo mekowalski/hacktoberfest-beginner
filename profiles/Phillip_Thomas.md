@@ -20,7 +20,7 @@ Fredericksburg, VA
 Programming helps give context to ideas, while providing enough innovation that everyday is a learning experience.
 
 ### Your Favorite Animal
-Oddly enough, cows. They always seem so peacful.
+Oddly enough, cows. They always seem so peaceful.
 
 ### Your Favorite Dessert
 100% Red velvet cake
