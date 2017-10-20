@@ -27,7 +27,7 @@ git clone https://github.com/your-username/hacktoberfest17-beginner.get
 
 3. Create a branch
 ```markdown
-get checkout -b branch-name
+get checkout -b your-branch-name
 ```
 
 4. Make your addition to the `Profile` and `Hello World` directories
@@ -36,7 +36,7 @@ get checkout -b branch-name
 ```markdown
 git add .
 git commit -m 'commit message'
-git push origin branch-name
+git push origin your-branch-name
 ```
 
 - Create a new Pull Request from your forked repository, click the `New Pull Request` button located at the top of your repository
