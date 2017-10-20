@@ -11,6 +11,8 @@ Sydney, New South Wales, Australia
 - Camping
 - Hiking
 - Swimming
+- Electronics (circuits and stuff)
+- Graphic Design
 
 ### Why Do You Love Coding?
 It's challenging, there's always new stuff to learn and try and you get to solve problems. I also like that it's fun but construtive.
