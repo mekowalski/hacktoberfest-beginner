@@ -77,6 +77,8 @@ Whatever that may be
 ```
 
 ### * Hello World Page
+Please create your own file and add your hello world script.  Do not alter other user's hello world scripts. Thank you
+
 ### Name of File: hello_world.preferred language written
 ```markdown
 example: hello_world.rb
