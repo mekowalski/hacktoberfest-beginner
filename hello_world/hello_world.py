@@ -1,6 +1,5 @@
-# AUTHOR: Daniel Lempesis
+# AUTHOR: Andrew Pickham
 # LANGUAGE: Python
-# GITHUB: https://github.com/DanL12186
+# GITHUB: https://github.com/apickham
 
-def hello_world():
-    print ("Hello world!!")
+print("Hello, World!")
