@@ -1,2 +1,0 @@
-C:\Users\adam.vincent\Documents\GitHub\hacktoberfest17-beginner\hello_world\hello_world\bin\Debug\hello_world.exe.config
-C:\Users\adam.vincent\Documents\GitHub\hacktoberfest17-beginner\hacktoberfest17-beginner\hello_world\hello_world\bin\Debug\hello_world.exe.config
