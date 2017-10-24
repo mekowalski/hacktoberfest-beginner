@@ -1,0 +1,7 @@
+# AUTHOR: Lada Mcek
+# LANGUAGE: CSS
+# GITHUB: https://github.com/ladamcek
+
+body::before {
+  content: 'Hello world!'
+}
