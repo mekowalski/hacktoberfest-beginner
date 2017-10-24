@@ -1,7 +1,7 @@
 # Lada Mcek
 
 ### Location
-Brno,Cz
+Brno,Czech Republic
 
 ### Associated Organization
 - University
