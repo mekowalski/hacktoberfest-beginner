@@ -1,7 +1,7 @@
+//AUTHOR: virendrasingal
+//LANGUAGE: C++
+//GITHUB: https://github.com/virendrasingal
 
-AUTHOR: virendrasingal
- LANGUAGE: C++
- GITHUB: https://github.com/virendrasingal
 #include <iostream>
 using namespace std;
 
