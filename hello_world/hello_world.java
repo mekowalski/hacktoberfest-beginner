@@ -1,6 +1,8 @@
-/**@author: Pedro Campos
-  *@version: 1.0
-  */
+/*
+AUTHOR: Pedro Campos
+LANGUAGE: Java, version 1.0
+GITHUB: https://github.com/PCamposM2904
+*/
 public class hello_world{
 
     public static void main(String[] args){
