@@ -1,4 +1,4 @@
-//AUTHOR: virendrasingal
+//AUTHOR: Virendra Singal
 //LANGUAGE: C++
 //GITHUB: https://github.com/virendrasingal
 
