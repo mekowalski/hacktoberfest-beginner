@@ -1,4 +1,4 @@
-AUTHOR: GabLanger
+AUTHOR: Gabriel Langer
 LANGUAGE: C
 GITHUB: https://github.com/gablanger
 
