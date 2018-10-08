@@ -1,4 +1,4 @@
-# HacktoberFest17 Beginner Project
+# HacktoberFest Beginner Project
 Make your first contribution for [Hacktoberfest](https://hacktoberfest.digitalocean.com) in the simplest way.
 
 This is an open source project on Github.  Here you can practice making your first Pull Request to a public repository before doing a more complex contribution.
