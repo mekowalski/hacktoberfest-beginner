@@ -12,7 +12,7 @@ https://hacktoberfest.digitalocean.com/
 
 # How You Can Contribute to This Project
 Formatting to follow for profile and hello_world is below under `Format`
-1. Add your Profile Page in the respective `Profiles_Year` directory
+1. Add your Profile Page in the respective `Profiles-Year` directory
 2. In your preferred language create a simple `Hello World` script in the respective `Hello-World-Year` directory
 
 Make a Pull Request for your changes and wait to be merged.
