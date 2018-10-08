@@ -27,7 +27,7 @@ git clone https://github.com/your-username/hacktoberfest17-beginner.get
 
 3. Create a branch
 ```markdown
-get checkout -b your-branch-name
+git checkout -b your-branch-name
 ```
 
 4. Make your addition to the `Profile` and `Hello World` directories
