@@ -1,4 +1,4 @@
-# HacktoberFest17 Beginner Project
+# HacktoberFest Beginner Project
 Make your first contribution for [Hacktoberfest](https://hacktoberfest.digitalocean.com) in the simplest way.
 
 This is an open source project on Github.  Here you can practice making your first Pull Request to a public repository before doing a more complex contribution.
@@ -12,8 +12,8 @@ https://hacktoberfest.digitalocean.com/
 
 # How You Can Contribute to This Project
 Formatting to follow for profile and hello_world is below under `Format`
-1. Add your Profile Page in the `profiles` directory
-2. In your preferred language create a simple `Hello World` script in the `hello_world` directory
+1. Add your Profile Page in the respective `Profiles-Year` directory
+2. In your preferred language create a simple `Hello World` script in the respective `Hello-World-Year` directory
 
 Make a Pull Request for your changes and wait to be merged.
 
@@ -27,7 +27,7 @@ git clone https://github.com/your-username/hacktoberfest17-beginner.get
 
 3. Create a branch
 ```markdown
-get checkout -b your-branch-name
+git checkout -b your-branch-name
 ```
 
 4. Make your addition to the `Profile` and `Hello World` directories
@@ -79,9 +79,9 @@ Whatever that may be
 ### * Hello World Page
 Please create your own file and add your hello world script.  Do not alter other user's hello world scripts. Thank you
 
-### Name of File: hello_world.preferred language written
+### Name of File: hello_world_firstinitiallastname.preferred language written
 ```markdown
-example: hello_world.rb
+example: hello_world_mkowalski.rb
 ```
 
 ```markdown

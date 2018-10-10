@@ -1,4 +1,4 @@
-﻿//AUTHOR: Adam Vincent (CaptMurphy)
+﻿//AUTHOR: Adam Vincent
 //LANGUAGE: C#
 //GITHUB: https://github.com/captmurphy
 
