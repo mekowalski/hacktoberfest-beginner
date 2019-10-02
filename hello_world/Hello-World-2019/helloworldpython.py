@@ -1,2 +1,5 @@
-# Program to display the message "Hello World" on the screen
+#AUTHOR: Anjali V Ashokan
+#LANGUAGE: Python
+#GITHUB: https://github.com/AbhayVAshokan
+
 print("Hello World")
