@@ -1,24 +1,23 @@
 # First and Last Name
-SHREYA P
-
+Anjali V Ashokan
 ### Location
-BANGALORE, KARNATAKA,INDIA
+Kerala, India
 
 ### Associated Organization
-- NONE
+- Sri Kerala Varma College
 
 ### Academics
-- SMVIT
-
+- MA English (Literature)
 
 ### Non-Coding Interests
-- DANCING
-- READING
+- Singing
+- Art
+
 ### Why Do You Love Coding?
-I love challenges and problem solving.
+My brother is cool.
 
 ### Your Favorite Animal
-DOGS
+Humans
 
 ### Your Favorite Dessert
-ICE CREAMS
+Sahara

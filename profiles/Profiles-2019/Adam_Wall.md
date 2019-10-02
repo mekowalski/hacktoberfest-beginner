@@ -1,5 +1,5 @@
-# First and Last Name
-Anjali V Ashokan
+# Anjali Ashokan
+
 ### Location
 Kerala, India
 
