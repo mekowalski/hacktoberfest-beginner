@@ -1,4 +1,4 @@
-//AUTHOR: viewless
+//AUTHOR: Nikola Dionisiev
 //LANGUAGE: C#
 //GITHUB: https://github.com/viewless
 
