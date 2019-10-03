@@ -1,7 +1,7 @@
 # Jonathan Evason
 
 ### Location
-Manchester, England.
+Manchester, England
 
 ### Academics
 - Salford University

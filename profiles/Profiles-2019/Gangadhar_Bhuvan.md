@@ -1,4 +1,4 @@
-# Gangadhar bhuvan
+# Gangadhar Bhuvan
 
 ### Location
 Banglore,Karnataka,India
@@ -19,7 +19,7 @@ Banglore,Karnataka,India
 I love being able to create anything that comes to mind, whether it may solve a tiny problem or a massive one!
 
 ### Your Favorite Animal
-Elephants 
+Elephants
 
 ### Your Favorite Dessert
 Chocolate chip cookies!

@@ -1,5 +1,4 @@
-# First Name and Last Name 
-Pratilipi Aich
+# Pratilipi Aich
 
 ### Location
 Bangalore, Karnataka, India
