@@ -1,3 +1,7 @@
+// AUTHOR: Amit Dutta
+// LANGUAGE: C++
+// GITHUB: https://github.com/Amitdutta7
+
 #include <bits/stdc++.h>
 
 using namespace std;
