@@ -14,10 +14,11 @@ Guntur , Andhra Pradesh , India
 - Listening Music
 
 ### Why Do You Love Coding?
-I was introduced to coding(programming in general) in my freshman year and I instantly fell in love with it. The power to build anything right after you learn something was truly fascinating.
+I was introduced to coding (programming in general) in my freshman year and I instantly fell in love with it. The power to build anything right after you learn something was truly fascinating.
 
 ### Your Favorite Animal
 Tiger
 
 ### Your Favorite Dessert
 Chocolate Ice-Cream
+
