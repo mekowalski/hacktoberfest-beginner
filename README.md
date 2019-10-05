@@ -15,7 +15,7 @@ Formatting to follow for profile and hello_world is below under `Format`
 1. Add your Profile Page in the respective `Profiles-Year` directory
 2. In your preferred language create a simple `Hello World` script in the respective `Hello-World-Year` directory
 
--Even if you don't want to code `Hello World` in your preferred language because it's already done, please still contribute your piece.  Your way of writing in a language may differ from another person's way.
+- Even if you don't want to code `Hello World` in your preferred language because it's already done, please still contribute your piece.  Your way of writing in a language may differ from another person's way.
 
 Make a Pull Request for your changes and wait to be merged.
 
@@ -43,7 +43,7 @@ git push origin your-branch-name
 
 - Create a new Pull Request from your forked repository, click the `New Pull Request` button located at the top of your repository
 - Wait for you PR to be reviewed and merge approval
-- Star this repository if you had fun!
+- :star::star::star: Star this repository if you had fun! :star::star::star:
 
 # Format
 
