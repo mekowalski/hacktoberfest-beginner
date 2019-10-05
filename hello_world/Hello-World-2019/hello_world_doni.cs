@@ -2,7 +2,6 @@
 // LANGUAGE: C#
 // GITHUB: https://github.com/btrx
 
-
  using System;
 
 namespace HelloWorl {
