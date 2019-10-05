@@ -1,4 +1,4 @@
-//AUTHOR: Tom OS
+//AUTHOR: Tom Osul
 //LANGUAGE: C
 //GITHUB: https://github.com/tosul
 
