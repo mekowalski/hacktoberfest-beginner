@@ -1,6 +1,7 @@
 //AUTHOR: Ferib Hellscream
 //LANGUAGE: C#
 //GITHUB: https://github.com/ferib
+
 using System;
 
 namespace HelloWorld
