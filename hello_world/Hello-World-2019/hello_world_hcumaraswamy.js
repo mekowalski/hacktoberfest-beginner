@@ -1,3 +1,7 @@
+// AUTHOR: Haripriya Cumaraswamy
+// LANGUAGE: js
+// GITHUB: https://github.com/echpee
+
 <html>
    <body>
       <script>
