@@ -6,6 +6,9 @@ GITHUB: https://github.com/gablanger
 
 int main() {
   printf("Hello World\n");
-  printf("hello bro");
+
+
+  //added a hindi word Namaskar, used to greet people in India.
+  printf("Namaskar\n"); 
   return 0;
 }
