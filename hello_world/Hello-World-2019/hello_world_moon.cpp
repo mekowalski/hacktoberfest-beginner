@@ -1,3 +1,7 @@
+// AUTHOR: Morgen Sudyanto
+// LANGUAGE: Ruby
+// GITHUB: https://github.com/moondemon68
+
 #include <bits/stdc++.h>
 #define fi first
 #define se second
