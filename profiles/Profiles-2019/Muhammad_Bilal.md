@@ -1,29 +1,29 @@
-# Julius Miyumo
+# Muhammad Bilal
 
 ### Location
 
-Melbourne, Australia
+Sialkot, Pakistan
 
 ### Associated Organizatio
 
-- None
+- none
 
 ### Academics
 
-- BA Electrical Engineering
+- BS Computer Science
 
 ### Non-Coding Interests
 
-- Dance
-- Soccer
+- Cricket
+- games
 
 ### Why Do You Love Coding?
 
-Its like playing video games.... I like playsation.
+Its sharp mind.
 
 ### Your Favorite Animal
 
-Eagle
+Lion
 
 ### Your Favorite Dessert
 
