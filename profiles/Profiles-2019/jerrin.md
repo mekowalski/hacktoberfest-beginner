@@ -1,12 +1,19 @@
-#Name: Jerrin K. Dawny
-#Location: India
+Location
+India
 
-<html>
-<head>
-<title>Hello World</title>
-</head>
+Academics
+Karunya University
 
-<body>
-<h1>Hello World</h1>
-</body>
-</html>
+Non-Coding Interests
+Music Reading
+Video Games
+Learning Languages
+
+Why Do You Love Coding?
+There's nothing more satisfying that getting a machine to solve a problem.
+
+Your Favorite Animal
+Puppies
+
+Your Favorite Dessert
+Anything with Chocolate in it!
