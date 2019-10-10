@@ -1,12 +1,15 @@
 Ayushi patidar
 
 Location
+
 Indore, India
 
 Academics
+
 IPS ACAdEMY,Indore
 
 Non-Coding Interests
+
 Reading
 Music
 Writing
