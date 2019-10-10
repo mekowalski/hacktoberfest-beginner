@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>
+hello world
+</title>
+<script type="text/javascript">
+
+document.write("hello World");
+</script>
+</head>
+</html>
