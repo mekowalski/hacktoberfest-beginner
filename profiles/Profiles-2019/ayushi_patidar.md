@@ -1,25 +1,23 @@
-Ayushi patidar
+# Ayushi patidar
 
-Location
+### Location
+Indore, Madhya Pardesh, India
 
-Indore, India
+### Academics
+- IPS Academy ,indore
 
-Academics
+### Non-Coding Interests
+- Reading
+  Music
+  Writing
+  playing games
 
-IPS ACAdEMY,Indore
-
-Non-Coding Interests
-
-Reading
-Music
-Writing
-playing games
-
-Why Do You Love Coding?
+### Why Do You Love Coding?
 I wants to develop my own applications and i have interest to do coding.
 
-Your Favorite Animal
-hourse
+### Your Favorite Animal
+Hourse
 
-Your Favorite Dessert
-jalebi and gulabjamun
+### Your Favorite Dessert
+Jalebi and gulabgamun
+
