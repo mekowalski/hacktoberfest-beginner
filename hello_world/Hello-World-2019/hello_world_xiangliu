@@ -1,0 +1,6 @@
+//AUTHOR: Xiang Liu
+//LANGUAGE: Swift
+//GITHUB: https://github.com/thegodland
+
+import foundation
+print("hello world!")
