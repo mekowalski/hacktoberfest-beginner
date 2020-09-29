@@ -1,0 +1,30 @@
+# Susnata Goswami
+
+### Location
+
+Kolkata, West Bengal, India
+
+### Associated Organization
+
+- Promenant Innovation Labs
+
+### Academics
+
+- University Of Engineering and Management, Kolkata
+
+### Non-Coding Interests
+
+- Movies
+- COllecting Discographies
+- Music
+- Doodle
+- Anime
+- Anime Sketching
+
+### Why Do You Love Coding?
+
+It makes me escape to a different reality, where I claim myself accomplished!
+
+### Your Favorite Animal
+
+Dogs
