@@ -15,7 +15,7 @@ Kolkata, West Bengal, India
 ### Non-Coding Interests
 
 - Movies
-- COllecting Discographies
+- Collecting Discographies
 - Music
 - Doodle
 - Anime
