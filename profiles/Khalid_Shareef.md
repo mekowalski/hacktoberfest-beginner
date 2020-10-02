@@ -1,4 +1,4 @@
-# Khalid and Shareef
+# Khalid Shareef
 
 ### Location
 Warangal, Telangana, India
