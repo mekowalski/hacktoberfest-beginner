@@ -1,5 +1,5 @@
-#AUTHOR: Shimozuki
-#LANGUAGE: Python
-#GITHUB: https://github.com/shimozuki
+// AUTHOR: shimozuki
+// LANGUAGE: python
+// GITHUB: https://github.com/shimozuki
 
-print("Hello World")
+puts 'Hello, World!'
