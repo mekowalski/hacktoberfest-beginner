@@ -1,5 +1,4 @@
-# First and Last Name
-Ayush Surana
+# Ayush Surana
 ### Location
 Raipur, Chhattisgarh, India
 
