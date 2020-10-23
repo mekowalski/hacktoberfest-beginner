@@ -11,7 +11,7 @@ Bhopal, Madhya Pradesh, India
 - Video Editing
 
 ### Why Do You Love Coding?
-Because it prepares my brain to think out of box
+Because it prepares my brain to think out of the box
 
 ### Your Favorite Animal
 I love parrots
