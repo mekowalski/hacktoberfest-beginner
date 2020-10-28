@@ -1,6 +1,5 @@
-// AUTHOR: Amit Dutta
+// AUTHOR: gokul shahi
 // LANGUAGE: C++
-// GITHUB: https://github.com/Amitdutta7
 
 #include <bits/stdc++.h>
 
