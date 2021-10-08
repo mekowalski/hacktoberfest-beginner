@@ -1,4 +1,4 @@
-# Aqeel BAcchus
+# Aqeel Bacchus
 
 ### Location
 Scranton, Pennsylvania, USA
