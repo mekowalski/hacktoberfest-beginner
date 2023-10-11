@@ -1,6 +1,6 @@
-//AUTHOR: GANGADHAR BHUVAN
+//AUTHOR: Abdul Aziz
 //LANGUAGE: C++
-//GITHUB: https://github.com/Gangadharbhuvan
+//GITHUB: https://github.com/Abdul-Aziz-Mustafa
 
 #include<iostream.h>
 void main()
