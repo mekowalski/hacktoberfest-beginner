@@ -7,8 +7,7 @@ Patna, Bihar, India
 - None
 
 ### Academics
-- List of Education
-- List of Education
+- Bachelor of technology 
 
 ### Non-Coding Interests
 - Eating
